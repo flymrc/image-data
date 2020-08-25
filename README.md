@@ -1,3 +1,3 @@
 # 500px images
 
-total 500
+500 items
